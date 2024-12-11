@@ -4,16 +4,16 @@ on:
     types:
       - opened
     branches:
-      - master
+      - main
       - "dev-*"
       - "feat/**"
   workflow_dispatch:
   push:
     branches:
-      - master
+      - main
       - "dev-*"
       - "feat/**"
-    paths:
+    paths-ignore:
       - ".github/workflows/*"
 
 jobs:
