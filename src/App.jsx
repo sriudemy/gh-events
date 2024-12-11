@@ -1,7 +1,7 @@
 import MainContent from "./components/MainContent";
 import logo from "./assets/images/logo.png";
 
-//this is for owner sriudemy
+//this is for owner sriudemy cancel
 
 function App() {
   return (
