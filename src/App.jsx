@@ -1,7 +1,7 @@
 import MainContent from "./components/MainContent";
 import logo from "./assets/images/logo.png";
 
-//this is for owner sriudemy cancel
+//this is for owner sriudemy cancel skipping
 
 function App() {
   return (
